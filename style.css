@@ -259,7 +259,7 @@ body{
 
 .layer p{
     color: #000000;
-    font-size: 1.55rem;
+    font-size: 1.5rem;
     font-weight: 700;
     text-align: center;
 }
@@ -334,7 +334,7 @@ h2{
     background-color: var(--secondary-color);
     color: #fff;
     padding: 10px 40px;
-    width: 100vw;
+    width: 100%;
     bottom: 0;
     position: relative;
 }
